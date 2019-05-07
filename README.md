@@ -19,7 +19,7 @@ Ce sont des grandes lignes, tu as carte blanche pour organiser ton écran comme 
 
 - La feature doit être développée en MVP (avec un contract)
 - Les librairies à utiliser : RxJava, Retrofit et le tout en Kotlin
-- Tu peux ignorer tout ce qui est injection de dépendance, et créer le manager à la volée.
+- Tu peux ignorer tout ce qui est injection de dépendances, et créer les managers ou autres à la volée.
 - Tu peux ignorer les problématiques de rotation de l'écran
 - Aucun stockage en local, on ne travaille qu'en mémoire
 - Une attention particulière sera portée sur la gestion des messages d'erreur (notamment lorsque l'utilisateur n'a pas de réseau)
@@ -28,7 +28,7 @@ Ce sont des grandes lignes, tu as carte blanche pour organiser ton écran comme 
 
 ## A faire
 
-- J'ai initializé un projet vide avec une activité nommée GithubSearchActivity. C'est celle-ci que tu vas modifier.
+- J'ai initialisé un projet vide avec une activité nommée GithubSearchActivity. C'est celle-ci que tu vas modifier.
 - Fais une branche pour ton dev et lorsque tu as terminé, fais une Pull Request.
 
 Have fun !
