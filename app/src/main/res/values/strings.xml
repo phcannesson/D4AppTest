@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">D4AppTest</string>
+    <string name="github_search_hint">Entrer le nom d\'un repository</string>
+    <string name="imageview_searchitem_content_description">Image du propriétaire du repository</string>
+    <string name="imageview_searchitem_stars_description">Nombre d\'étoiles du repository</string>
+    <string name="android_radio_text">Android</string>
+    <string name="ios_radio_text">iOS</string>
+    <string name="search_emptyresult">Aucun résultat ne correspond à votre recherche</string>
+    <string name="common_error">Erreur</string>
+    <string name="common_emptyinput_error">Aucun texte renseigné</string>
+    <string name="common_connectivityissue">La recherche n\'a pas pu aboutir car vous n\'êtes pas connecté à internet</string>
+    <string name="common_timeoutissue">La recherche n\'a pas pu aboutir car le délai d\'attente est dépassé</string>
+    <string name="common_apirateissue">La recherche n\'a pas pu aboutir car trop d\'appels ont été effectués ou la requête a été mal formulée</string>
+    <string name="common_unknownissue">La recherche n\'a pas pu aboutir car une erreur inconnue est survenue</string>
 </resources>
